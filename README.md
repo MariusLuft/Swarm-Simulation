@@ -10,3 +10,5 @@ Colorful particle show which is meant to simulate swarm behavior.
                 It is also possible to change their size by scrawling the mouse wheel.
                 
 Enjoy!
+
+![Swarm-Simulation](https://github.com/MariusLuft/Swarm_Simulation/blob/master/partikel.PNG)
